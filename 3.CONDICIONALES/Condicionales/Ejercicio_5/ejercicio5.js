@@ -12,7 +12,7 @@ if ( nota > 0.0 && nota < 6.0  ){
         if ( nota >= 8.0 && nota < 9.0){
             document.write('<h4>Tu calificacion es: Buena</h4>');
         }else{
-            if ( nota > 9.0 && nota <= 10.0 ){
+            if ( nota >= 9.0 && nota <= 10.0 ){
                 document.write('<h4>Tu calificacion es: Excelente</h4>');
             }else{
                 document.write('<h4>Nota invalida</h4>');
