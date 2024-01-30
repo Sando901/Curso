@@ -1,0 +1,10 @@
+¿Cuál es la diferencia entre una variable y una constante?
+
+R/ La diferencia es que la en la variable el valor puede cambiar, por el contrario, la constante solo se puede declarar una sola vez 
+
+¿Cuándo se deberían usar ?
+
+R/ Las constantes deberían utilizarse para valores como Pi, que son valores que no cambian, 
+   y las variables para guardar datos que puedan variar.
+
+
